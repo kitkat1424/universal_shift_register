@@ -10,7 +10,9 @@ Structural Modeling: This approach uses basic building blocks (such as multiplex
 Behavioral Modeling: This approach uses high-level Verilog constructs to describe the functionality of the shift register directly, making the code more abstract and easier to understand.
 
 # Files
-shift_register_4bit_structural.v: Implementation of the 4-bit shift register using structural modeling.
-shift_register_4bit_behavioral.v: Implementation of the 4-bit shift register using behavioral modeling.
+The universal_shift_register_behav folder contains the relevant files for the behavioral description.
+The universal_shift_register_struct folder contains the relevant files for the structural description.
 
-These files are present in the src folders of the respective projects.
+The source files are present in the following directories.
+1. universal_shift_register_behav/universal_shift_register.srcs/sources_1/new/shift_register_4bit.v
+2. universal_shift_register_struct/universal_shift_register_struct.srcs/sources_1/new/shift_register_4bit.v 
