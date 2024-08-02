@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/aadit/Desktop/New folder/universal_shift_register_struct/universal_shift_register_struct.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/aadit/Desktop/New folder/universal_shift_register_struct/universal_shift_register_struct.srcs/sim_1/new/t_shift_register_4bit.v,1722606885,verilog,,,,t_shift_register_4bit,,,,,,,,
+C:/Users/aadit/Desktop/New folder/universal_shift_register_struct/universal_shift_register_struct.srcs/sources_1/new/shift_register_4bit.v,1722606539,verilog,,C:/Users/aadit/Desktop/New folder/universal_shift_register_struct/universal_shift_register_struct.srcs/sim_1/new/t_shift_register_4bit.v,,D_flip_flop;Mux_4x1;mux_out;shift_register_4bit,,,,,,,,
